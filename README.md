@@ -62,7 +62,7 @@ Before importing the data, ensure that:
 
 ## Executing the Python CLI
 
-The Python script DatabaseCLI.py provides a command-line interface (CLI) for interacting with the PostgreSQL database.
+The Python script databasecli.py provides a command-line interface (CLI) for interacting with the PostgreSQL database.
 
 ### Prerequisites for Running the CLI
 
@@ -79,11 +79,11 @@ Before running the file, ensure that:
 
 1. **Open your terminal.**
 
-2. **Navigate to the directory containing `DatabaseCLI.py`:**
+2. **Navigate to the directory containing `databasecli.py`:**
 
 3. **Execute the script using Python 3:**
    ```bash
-   python3 DatabaseCLI.py
+   python3 databasecli.py
    ```
 
 ### Using the Database CLI Interface
